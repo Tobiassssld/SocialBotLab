@@ -221,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local research datasets
+data/*
+!data/README.md
+
+# PyCharm local settings
+.idea/
+
+# Private learning notes
+notes/
+progress.md
